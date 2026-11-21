@@ -71,3 +71,9 @@ thead th{
     left: 0;
     background-color: #d5d1defe;
 }
+table tr:nth-child(even){
+    background-color: #0000000b;
+}
+tbody tr:hover{
+    background-color: #fff6;
+}
